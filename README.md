@@ -21,7 +21,7 @@ Open your web browser and navigate to http://localhost:3000 to use the applicati
 
 How to Use:
 
-Using the application is very simple. Simply enter a search term in the search bar and hit the Enter key or click the search button. The application will then retrieve images from Unsplash based on your search term and display them on the screen.
+Using the application is very simple. Simply enter a search term in the search bar and hit the Enter key or click the search button. The application will then retrieve images from Unsplash API based on your search term and display them on the screen.
 
 
 Technologies Used:
